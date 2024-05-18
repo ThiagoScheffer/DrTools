@@ -467,13 +467,13 @@ namespace Dr.Tools
                 File.Delete(AssemblyDirectory + @"\AdwCleaner.exe");
                 tConsole.Text = "Atualizando...";
                 tConsole.Text += "\nIniciando Download... Aguarde.";
-                FileToDownload = "https://dl.dropboxusercontent.com/s/oiixxlyz61q8yfz/AdwCleaner.exe";
+                FileToDownload = "https://downloads.malwarebytes.com/file/adwcleaner";
                 DownloadApplication();
             }
             else
             {
                 tConsole.Text += "\nIniciando Download... Aguarde.";
-                FileToDownload = "https://dl.dropboxusercontent.com/s/oiixxlyz61q8yfz/AdwCleaner.exe";
+                FileToDownload = "https://downloads.malwarebytes.com/file/adwcleaner";
                 DownloadApplication();
             }
         }
@@ -486,7 +486,7 @@ namespace Dr.Tools
                 {
                     tConsole.Text = "Arquivo não existe...";
                     tConsole.Text += "\nIniciando Download...";
-                    FileToDownload = "http://data-cdn.mbamupdates.com/v2/mbam/consumer/data/mbam-setup-2.0.1.1004.exe";//http://data-cdn.mbamupdates.com/v0/program/data/mbam-setup-1.75.0.1300.exe
+                    FileToDownload = "https://www.malwarebytes.com/api/downloads/mb-windows?filename=MBSetup.exe";//http://data-cdn.mbamupdates.com/v0/program/data/mbam-setup-1.75.0.1300.exe
                     DownloadApplication();
                 }
                 else

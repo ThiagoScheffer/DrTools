@@ -7,3 +7,12 @@ c:\users\encryptorx\documents\visual studio 2013\Projects\Dr.Tools\Dr.Tools\bin\
 c:\users\encryptorx\documents\visual studio 2013\Projects\Dr.Tools\Dr.Tools\bin\Debug\Dr.Tools.pdb
 c:\users\encryptorx\documents\visual studio 2013\Projects\Dr.Tools\Dr.Tools\obj\Debug\Dr.Tools.exe
 c:\users\encryptorx\documents\visual studio 2013\Projects\Dr.Tools\Dr.Tools\obj\Debug\Dr.Tools.pdb
+C:\Users\Visual\Documents\Visual Studio 2019\Dr.Tools\Dr.Tools\bin\Debug\Dr.Tools.exe
+C:\Users\Visual\Documents\Visual Studio 2019\Dr.Tools\Dr.Tools\bin\Debug\Dr.Tools.pdb
+C:\Users\Visual\Documents\Visual Studio 2019\Dr.Tools\Dr.Tools\obj\Debug\Dr.Tools.csprojAssemblyReference.cache
+C:\Users\Visual\Documents\Visual Studio 2019\Dr.Tools\Dr.Tools\obj\Debug\Dr.Tools.frmAdministrador.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Dr.Tools\Dr.Tools\obj\Debug\Suporte.frmUSBRepair.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Dr.Tools\Dr.Tools\obj\Debug\Dr.Tools.Properties.Resources.resources
+C:\Users\Visual\Documents\Visual Studio 2019\Dr.Tools\Dr.Tools\obj\Debug\Dr.Tools.csproj.GenerateResource.cache
+C:\Users\Visual\Documents\Visual Studio 2019\Dr.Tools\Dr.Tools\obj\Debug\Dr.Tools.exe
+C:\Users\Visual\Documents\Visual Studio 2019\Dr.Tools\Dr.Tools\obj\Debug\Dr.Tools.pdb

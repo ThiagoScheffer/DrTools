@@ -73,7 +73,7 @@
             this.btnForceQuit.Name = "btnForceQuit";
             this.btnForceQuit.Size = new System.Drawing.Size(137, 23);
             this.btnForceQuit.TabIndex = 4;
-            this.btnForceQuit.Text = "Fechar Aplicativo";
+            this.btnForceQuit.Text = "Close Application";
             this.btnForceQuit.UseVisualStyleBackColor = true;
             this.btnForceQuit.Click += new System.EventHandler(this.btnForceQuit_Click);
             // 
@@ -93,7 +93,7 @@
             this.btnRestAdm.Name = "btnRestAdm";
             this.btnRestAdm.Size = new System.Drawing.Size(137, 23);
             this.btnRestAdm.TabIndex = 11;
-            this.btnRestAdm.Text = "Reiniciar como Admin";
+            this.btnRestAdm.Text = "Restart as Adm";
             this.btnRestAdm.UseVisualStyleBackColor = true;
             this.btnRestAdm.Click += new System.EventHandler(this.btnRestAdm_Click);
             // 
