@@ -1,0 +1,9 @@
+c:\users\encryptorx\documents\visual studio 2013\Projects\Dr.Tools\Dr.Tools\obj\Debug\Dr.Tools.csprojResolveAssemblyReference.cache
+c:\users\encryptorx\documents\visual studio 2013\Projects\Dr.Tools\Dr.Tools\obj\Debug\Dr.Tools.Properties.Resources.resources
+c:\users\encryptorx\documents\visual studio 2013\Projects\Dr.Tools\Dr.Tools\obj\Debug\Dr.Tools.csproj.GenerateResource.Cache
+c:\users\encryptorx\documents\visual studio 2013\Projects\Dr.Tools\Dr.Tools\obj\Debug\Dr.Tools.frmAdministrador.resources
+c:\users\encryptorx\documents\visual studio 2013\Projects\Dr.Tools\Dr.Tools\obj\Debug\Suporte.frmUSBRepair.resources
+c:\users\encryptorx\documents\visual studio 2013\Projects\Dr.Tools\Dr.Tools\bin\Debug\Dr.Tools.exe
+c:\users\encryptorx\documents\visual studio 2013\Projects\Dr.Tools\Dr.Tools\bin\Debug\Dr.Tools.pdb
+c:\users\encryptorx\documents\visual studio 2013\Projects\Dr.Tools\Dr.Tools\obj\Debug\Dr.Tools.exe
+c:\users\encryptorx\documents\visual studio 2013\Projects\Dr.Tools\Dr.Tools\obj\Debug\Dr.Tools.pdb

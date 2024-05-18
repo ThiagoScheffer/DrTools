@@ -1,0 +1,118 @@
+<?xml version="1.0" standalone="yes"?>
+<DBVirus>
+  <Rogue>
+    <hlmk>
+	<key>Software\Feven Pro 1.1</key>
+	<key>SOFTWARE\Classes\CrossriderApp0051680.BHO</key>
+	<key>SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\mypc backup</key>
+	<key>Software\systweak</key>
+	<key>Software\isafe</key>
+	</hlmk>	
+	<hcuk>
+	<key>Software\AppDataLow\Software\Crossrider</key>
+	<key>Software\Systweak\Advanced System Protector</key>
+	<key>Software\Baidu</key>
+	</hcuk>
+  </Rogue>
+  <Adware>
+    <hlmk>
+	<key>Software\Conduit</key>
+	<key>Software\HomeTab</key>
+	<key>Software\Iminent</key>
+	<key>Software\V9Software</key>
+	<key>SOFTWARE\Classes\gencrawler_gc.GenCrawler</key>
+	<key>Software\DataMngr</key>
+	<key>Software\dealplylive</key>
+	<key>Software\eSafeSecControl</key>
+	<key>Software\qvo6Software</key>
+	<key>Software\Tarma Installer</key>
+	<key>Software\V9</key>
+	<key>Software\Web Assistant</key>
+	<key>Software\uTorrentBar_PT</key>
+	<key>SOFTWARE\Classes\AppID\BonanzaDealsLive.exe</key>
+	<key>SOFTWARE\Classes\AppID\PropertySync.EXE</key>
+	<key>SOFTWARE\Classes\Prod.cap</key>
+	<key>Software\Babylon</key>
+	<key>Software\PIP</key>
+	<key>Software\SProtector</key>
+	<key>Software\Vittalia</key>
+	<key>SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\{03EB0E9C-7A91-4381-A220-9B52B641CDB1}</key>
+	<key>SOFTWARE\Classes\CLSID\{03EB0E9C-7A91-4381-A220-9B52B641CDB1}</key>
+	<key>Software\Application Updater</key>
+	<key>Software\UpdaterEX</key>
+	<key>Software\AskPartnerNetwork</key>
+	<key>Software\BrowseFox</key>
+	<key>Software\Umbrella</key>
+	<key>Software\Yawtix</key>
+	<key>SOFTWARE\Classes\CLSID\{1AA60054-57D9-4F99-9A55-D0FBFBE7ECD3}</key>
+	<key>SOFTWARE\CLASSES\TYPELIB\{F32C616B-19B1-4978-919B-ACB52B51CAA5}</key>
+	<key>SOFTWARE\MyBestOffersToday</key>
+	<key>Software\GlobalUpdate</key>
+	</hlmk>	
+	<hcuk>
+	<key>Software\APNDTX</key>
+	<key>Software\APN PIP</key>
+	<key>Software\BabSolution</key>
+	<key>Software\BonanzaDealsLive</key>
+	<key>Software\Conduit</key>
+	<key>Software\DataMngr</key>
+	<key>Software\DealPlyLive</key>
+	<key>Software\delta LTD</key>
+	<key>Software\filescout</key>
+	<key>Software\Iminent</key>
+	<key>Software\ImInstaller</key>
+	<key>Software\InstallCore</key>
+	<key>Software\performersoft llc</key>
+	<key>Software\smartbar</key>
+	<key>Software\StartSearch</key>
+	<key>Software\SpecialSavings</key>
+	<key>Software\V9</key>
+	<key>Software\Wajam</key>
+	<key>Software\YahooPartnerToolbar</key>
+	<key>Software\AppDataLow\Software\PriceGong</key>
+	<key>Software\Delta</key>
+	<key>Software\dsiteproducts</key>
+	<key>Software\lollipop</key>
+	<key>Software\SaveSenseLive</key>
+	<key>Software\AppDataLow\Software\adawarebp</key>
+	<key>Software\Yawtix</key>
+	<key>Software\SavingsBull</key>
+	<key>Software\Optimizer Pro</key>
+	<key>Software\mysearchdial</key>
+	<key>Software\simplytech</key>
+	<key>Software\Somoto</key>
+	<key>Software\genesis</key>
+	<key>Software\GlobalUpdate</key>
+	<key>Software\systweak</key>
+	<key>Software\TutoTag</key>
+	<key>Software\genesis</key>
+	</hcuk>
+  </Adware>
+
+  <Malware>
+    <hlmk>
+	<key>SYSTEM\ControlSet001\Control\SafeBoot\Network\PsClikSeguro</key>
+	<key>Software\eSafeSecControl</key>
+	<key>Software\Uniblue\DriverScanner</key>
+	<key>Software\Uniblue\SpeedUpMyPC</key>
+	<key>SOFTWARE\Wow6432Node\PSafe</key>
+	<key>SOFTWARE\Wow6432Node\Baidu</key>
+	<key>SOFTWARE\Wow6432Node\Baidu Security</key>
+	<key>SOFTWARE\Baidu Security</key>
+	<key>SOFTWARE\Wow6432Node\IObit\Advanced SystemCare 7</key>
+	<key>SOFTWARE\Classes\AppID\DiscoveryHelper.DLL</key>
+	<key>SOFTWARE\Classes\imweb.imwebcontrol</key>
+	<key>Software\DataMngr</key>
+	<key>SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\browserprotect.exe</key>
+	<key>SOFTWARE\Wow6432Node\IObit</key>
+	<key>SOFTWARE\Classes\CLSID\{3E28F712-0D6C-4EE3-AC8C-8F060F5D7C33}</key>	
+	</hlmk>
+	<hcuk>
+	<key>Software\Softonic</key>
+	<key>Software\PSafe</key>
+	<key>Software\Systweak\RegClean Pro</key>
+	<key>Software\Systweak\Advanced System Protector</key>
+	<key>Software\Baidu Security</key>
+	</hcuk>
+  </Malware>
+</DBVirus>
