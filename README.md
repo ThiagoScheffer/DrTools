@@ -98,5 +98,5 @@ This project does not have a formal license yet. A suggestion would be to use ei
 
 ---
 
-Developed by \Thiago Scheffer - 2014
+Developed by Thiago Scheffer - 2014
 ---
