@@ -1,7 +1,3 @@
-Based on the provided files, I will create a README.md file for your C# project. This README will detail the purpose of the application, its main functionalities, installation instructions, and how to use it. Here is the new README structure:
-
----
-
 # Dr. Tools – Utility for USB Repair and System Maintenance
 
 Dr. Tools is a C# Windows application designed to provide various system maintenance tools for administrators, including USB repair and registry cleaning. The app is designed to be user-friendly, with a console-based interface to execute various system tasks, such as malware removal and registry cleaning.
