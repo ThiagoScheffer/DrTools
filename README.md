@@ -89,7 +89,7 @@ Dr.Tools/
 ## 🖼️ Application Screenshots
 
 ![Application Screenshot](drtoolsmedia.png)
-<img src="drtoolsmedia.png" alt="Drtoolapp">
+
 ---
 
 ## 🛠️ License
