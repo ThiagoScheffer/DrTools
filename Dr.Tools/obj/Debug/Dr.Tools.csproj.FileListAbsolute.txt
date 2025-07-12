@@ -16,3 +16,13 @@ C:\Users\Visual\Documents\Visual Studio 2019\Dr.Tools\Dr.Tools\obj\Debug\Dr.Tool
 C:\Users\Visual\Documents\Visual Studio 2019\Dr.Tools\Dr.Tools\obj\Debug\Dr.Tools.csproj.GenerateResource.cache
 C:\Users\Visual\Documents\Visual Studio 2019\Dr.Tools\Dr.Tools\obj\Debug\Dr.Tools.exe
 C:\Users\Visual\Documents\Visual Studio 2019\Dr.Tools\Dr.Tools\obj\Debug\Dr.Tools.pdb
+C:\Users\Thiago\source\repos\ThiagoScheffer\DrTools\Dr.Tools\bin\Debug\Dr.Tools.exe
+C:\Users\Thiago\source\repos\ThiagoScheffer\DrTools\Dr.Tools\bin\Debug\Dr.Tools.pdb
+C:\Users\Thiago\source\repos\ThiagoScheffer\DrTools\Dr.Tools\obj\Debug\Dr.Tools.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\ThiagoScheffer\DrTools\Dr.Tools\obj\Debug\Dr.Tools.frmAdministrador.resources
+C:\Users\Thiago\source\repos\ThiagoScheffer\DrTools\Dr.Tools\obj\Debug\Suporte.frmUSBRepair.resources
+C:\Users\Thiago\source\repos\ThiagoScheffer\DrTools\Dr.Tools\obj\Debug\Dr.Tools.Properties.Resources.resources
+C:\Users\Thiago\source\repos\ThiagoScheffer\DrTools\Dr.Tools\obj\Debug\Dr.Tools.csproj.GenerateResource.cache
+C:\Users\Thiago\source\repos\ThiagoScheffer\DrTools\Dr.Tools\obj\Debug\Dr.Tools.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\ThiagoScheffer\DrTools\Dr.Tools\obj\Debug\Dr.Tools.exe
+C:\Users\Thiago\source\repos\ThiagoScheffer\DrTools\Dr.Tools\obj\Debug\Dr.Tools.pdb
