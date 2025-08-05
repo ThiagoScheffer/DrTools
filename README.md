@@ -92,10 +92,6 @@ Dr.Tools/
 
 ---
 
-## 🛠️ License
-
-This project does not have a formal license yet. A suggestion would be to use either the MIT License or Apache-2.0. Please open an issue for discussion.
-
 ---
 
 Developed by Thiago Scheffer - 2014
